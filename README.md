@@ -1,11 +1,6 @@
 # 2019LoggingBotTemplate
 2019 Logging BotTemplate
 
-
-
-
-
-
 Notes: <br />
 Start from Samples <br />
 EchoBot <br />
